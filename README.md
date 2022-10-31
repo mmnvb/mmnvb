@@ -2,9 +2,10 @@
 ### *Mastering the genius of computers that humanity has created*
 --------
 ### 🛠Languages and Tools
-![Python](https://img.shields.io/badge/Python-yellowgreen?style=flat&logo=python&logoColor=white)
-![Aiogram](https://img.shields.io/badge/Aiogram-9cf?style=flat&logo=telegram&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-black?style=flat&logo=mysql&logoColor=white)
+- Python
+- Aiogram
+- SQL
+
 ![Pr](https://img.shields.io/badge/Premiere-2A0033?style=flat&logo=adobepremierepro&logoColor=D465F0)
 ![Ae](https://img.shields.io/badge/Effects-00005B?style=flat&logo=adobeaftereffects&logoColor=9999FF)
 ![FL](https://img.shields.io/badge/FLStudio-2B2F32?style=flat&logo=fruityloops&logoColor=9999FF)
