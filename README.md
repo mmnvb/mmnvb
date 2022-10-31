@@ -11,3 +11,4 @@
 ### 🤩Follow me 
 [![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC5JBT-9HMcALnCFN-6syUgg)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat&logo=spotify&logoColor=black)](https://open.spotify.com/artist/5qUg1ZjGg4sFi7oWebrjaf?si=OGtUYx2kRmG-AZF5QEVlaA)
+![CodeWars](https://img.shields.io/badge/CodeWars-black?style=flat&logo=codewars&logoColor=red)(ttps://www.codewars.com/users/muminovbob)
