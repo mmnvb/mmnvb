@@ -2,8 +2,8 @@
 ### *Mastering the genius of computers that humanity has created*
 
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=muminovbob&theme=dark" alt="muminovbob" width="500" /> 
+<!-- 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=muminovbob&theme=dark" alt="muminovbob" width="500" />  -->
 
 <!-- ### Trophies
 <p align="center"><a href="https://github.com/muminovbob/github-profile-trophy" target="blank"><img src="https://github-profile-trophy.vercel.app/?username=muminovbob&theme=discord" alt="GitHub Trophies" /></a></p>
