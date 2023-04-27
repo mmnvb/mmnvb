@@ -12,7 +12,7 @@
 <!-- ------
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muminovbob&theme=dark&layout=compact" alt="muminovbob" width="400"/> -->
 
-### Tools
+<!-- ### Tools
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![python](https://img.shields.io/badge/python-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -26,4 +26,4 @@
 ### Follow me 
 [![Youtube](https://img.shields.io/badge/Youtube-black?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/channel/UC5JBT-9HMcALnCFN-6syUgg)
 [![Spotify](https://img.shields.io/badge/Spotify-black?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/5qUg1ZjGg4sFi7oWebrjaf?si=OGtUYx2kRmG-AZF5QEVlaA)
-[![CodeWars](https://img.shields.io/badge/CodeWars-black?style=for-the-badge&logo=codewars&logoColor=red)](https://www.codewars.com/users/muminovbob)
+[![CodeWars](https://img.shields.io/badge/CodeWars-black?style=for-the-badge&logo=codewars&logoColor=red)](https://www.codewars.com/users/muminovbob) -->
