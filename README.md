@@ -1,3 +1,2 @@
-- Rust 
-- C++
-- Python
+- C++ / Rust
+- Python / JS
